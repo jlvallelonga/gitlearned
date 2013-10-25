@@ -7,3 +7,7 @@ module.exports.sayHello = function() {
 module.exports.sayGoodbye = function() {
 	console.log('Goodbye');
 }
+
+module.exports.subtractNumbers = function(a, b) {
+	return a - b;
+}
