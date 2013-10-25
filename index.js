@@ -11,3 +11,7 @@ module.exports.sayGoodbye = function() {
 module.exports.subtractNumbers = function(a, b) {
 	return a - b;
 }
+
+module.exports.addNumbers = function(a, b) {
+	return a + b;	
+}
